@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @isha-manikandan
-- 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning Node.js
 - 📫 You can reach me at isha09091@gmail.com
 
 <!---
